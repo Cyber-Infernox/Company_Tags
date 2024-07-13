@@ -1,8 +1,6 @@
 # Company_Tags
 
-Keep Grinding...
-
-# Company-Wise Coding Solutions
+Company-Wise Coding Solutions
 
 Welcome to my repository where I upload coding solutions categorized by company. These solutions cover a wide range of problems that are commonly asked in technical interviews by various companies.
 
@@ -46,3 +44,4 @@ This repository is licensed under the MIT License.
 For any questions or suggestions, feel free to reach out to me at [sayonkar@gmail.com](mailto:sayonkar@gmail.com).
 
 Happy Coding!
+Keep Grinding!
